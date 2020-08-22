@@ -1,5 +1,4 @@
-# Time Complexity
-# Best Case: O(n2)  Worst Case: O(n2)
+# Time Complexity: O(n2)
 # Can be used when we have limited space.
 
 def selectionSort(arr):
